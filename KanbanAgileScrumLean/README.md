@@ -1,12 +1,5 @@
-# Программа Разработчик. Проджект-менеджмент.
+# Программа Быстрый старт. Тестировщик. Цифровые профессии
 ## Гибкие методологии.
-Все мои работы по программе "Гибкие методологии" по специальности Проджект-менеджер в GeekBrains University.
+Все мои работы по программе "Гибкие методологии" по специальности Быстрый старт. Тестировщик. Цифровые профессии в GeekBrains University.
 
 Каждый файл состоит из описания задания и моего решения.
-
-______________________________________________________________________________________________________________
-# Project management.
-## Flexible methodologies.
-All my works on the program "Flexible methodologies" in the specialty Project manager at GeekBrains University.
-
-Each file consists of a description of the task and my solution.
